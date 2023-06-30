@@ -1,0 +1,8 @@
+.catalog{
+    &__item{
+        transition: all .3s linear;
+        &.hide{
+            transform: scale(0);
+        }
+    }
+}

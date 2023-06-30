@@ -1,0 +1,46 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"ВКонтакте", 
+		"https://vk.com/mifitiwomen  ", 
+		Array(), 
+		Array("EXTERNAL"=>"true"), 
+		"" 
+	),
+	Array(
+		"Telegram", 
+		"https://t.me/mifiti_brand   ", 
+		Array(), 
+		Array("EXTERNAL"=>"true"), 
+		"" 
+	),
+	Array(
+		"Yappy", 
+		"https://yappy.media/s/p_5xqwhoV69ZUu3xNW1RcZMd", 
+		Array(), 
+		Array("EXTERNAL"=>"true"), 
+		"" 
+	),
+	Array(
+		"Pinterest", 
+		"https://pin.it/75nVoF9", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"YouTube", 
+		"https://youtube.com/@mifiti", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Дзен", 
+		"https://dzen.ru/id/64077f49a8c1374d62f83525?share_to=link", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

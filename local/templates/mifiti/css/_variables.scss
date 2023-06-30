@@ -1,0 +1,66 @@
+// Брекпоинты
+$grid-breakpoints: (
+      xs: 0px,
+      sm: 576px,
+      md: 768px,
+      lg: 992px,
+      xl: 1200px,
+      xxl: 1400px
+) !default;
+// Ширина контейнера
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1320px
+) !default;
+// Используемые цвета
+$black: #000 !default;
+$white: #fff !default;
+$brown: #AF9E77 !default;
+$white-brown: #E0D9BD !default;
+$menu-brown: #CCB98C !default;
+$gray: #CECECE !default;
+$main-black: #1D1D1D, !default;
+$dull-gray: #6B6264 !default;
+$red: #FF3F3F !default;
+$sale: #FF5B5B !default;
+$filter-gray: #EEEDED !default;
+$breadcrumbs-gray: #8B8486 !default;
+$article-gray: #8B8B8B !default;
+$white-gray: #6B6364 !default;
+// Цвета для генерации
+$colors: (
+"black": $black,
+"white": $white,
+"brown": $brown,
+"white-brown": $white-brown,
+"menu-brown": $menu-brown,
+"gray": $gray,
+"main-black": $main-black,
+"dull-gray": $dull-gray,
+"red": $red,
+"sale": $sale,
+"filter-gray": $filter-gray,
+"breadcrumbs-gray": $breadcrumbs-gray,
+"article-gray": $article-gray,
+"white-gray": $white-gray,
+) !default;
+// Для геренации font-face
+$font-face: (
+  UltraLight: 200,
+  Light: 300,
+  Regular: 400,
+  Medium: 500,
+  Bold: 700,
+) !default;
+
+// Переменные для grid сетки
+$container-max-width: 1320px !default;
+$grid-gap: 30px !default;
+$grid-gap-side: $grid-gap / 2;
+$grid-columns: 12 !default;
+$grid-gutter-width: 1.5rem !default;
+// Для px to rem
+$html-font-size: 16px;

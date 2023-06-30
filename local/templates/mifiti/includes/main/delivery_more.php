@@ -1,0 +1,1 @@
+<a href="/help/delivery/" class="btn btn__main--white">Подробнее</a>

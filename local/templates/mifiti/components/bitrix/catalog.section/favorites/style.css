@@ -1,0 +1,6 @@
+.catalog__item {
+  transition: all 0.3s linear;
+}
+.catalog__item.hide {
+  transform: scale(0);
+}/*# sourceMappingURL=style.css.map */
